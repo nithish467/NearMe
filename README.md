@@ -145,7 +145,8 @@ The Thirumalai Nayak Palace was the residence of King Thirumalai Nayak and was a
 ```
 
 
-## OUTPUT
+## OUTPUT!
+![alt text](map.png)
 ![alt text](temple.png)
 ![alt text](mobile.png)
 ![alt text](clg.png)
